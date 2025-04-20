@@ -14,7 +14,7 @@ It's a simple demonstration of how the RSA Algorithm works using core Python log
 
 ## 📁 Files Included
 
-- `CS22B1054-RSA_REPORT.docx` – Project report/documentation  
+- `CS22B1054-RSA_REPORT.docx` – Project Report
 - `README.md` – Project overview  
-- `RSA.py` – Main Python script with RSA logic  
+- `RSA.py` –  RSA Algorithm Implementation in Python
 - `RSA_OUTPUT.png` – Implementation output screenshot  
