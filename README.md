@@ -1,2 +1,2 @@
-# RSA
-RSA Implementation in Python 
+# Rivest–Shamir–Adleman (RSA) Algorithm Implementation in Python 
+ 
